@@ -26,4 +26,11 @@ It can also be used to enumerate projects on higher versions but you will only b
 Any projects caught by this script will be pulled through docker into your own machine, where you will now be able to execute them locally and peruse environment variables and secrets.
 
 ### Disclaimer
-This proof of concept exploit is intended solely for educational purposes and to help ethical hackers, security researchers, and organizations understand potential vulnerabilities in their systems. Users of this exploit must ensure they are in full compliance with all relevant local, state, national, and international laws. You must obtain explicit permission from the system owner before testing any systems using this exploit. This exploit is not intended to be used for any malicious activities, including but not limited to: unauthorized access, data theft, disruption of services, or harming any individual or organization. I am publicizing this exploit, but I take no responsibility for any misuse or damage caused by the use of this exploit. Users assume all responsibility and liability for any actions taken with this exploit.
+This proof of concept exploit is intended solely for educational purposes and to help ethical hackers, security researchers, and organizations understand potential vulnerabilities in their systems. Users of this exploit must ensure they are in full compliance with all relevant local, state, national, and international laws. You must obtain explicit permission from the system owner before testing any systems using this exploit. This exploit is not intended to be used for any malicious activities, including but not limited to:
+- unauthorized access;
+- data theft;
+- disruption of services;
+- harming any individual or organization;
+- etc.
+
+I am publicizing this exploit, but I take no responsibility for any misuse or damage caused by the use of this exploit. Users assume all responsibility and liability for any actions taken with this exploit.
